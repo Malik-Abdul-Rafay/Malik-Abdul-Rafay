@@ -22,7 +22,7 @@ I'm a passionate mobile application developer specializing in **React Native**, 
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malik-Abdul-Rafay&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Abdul-Rafaylayout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Abdul-Rafay&layout=compact&theme=dark)
 
 ---
 
